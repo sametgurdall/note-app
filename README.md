@@ -9,7 +9,7 @@ A simple note-taking application built with React. Users can add, edit, and dele
 - All changes are instantly updated in real time.
 
 ## 🎥 Live Demo
-[Click Here to View the Live Project](#)  
+[Click Here to View the Live Project](https://stately-vacherin-a08b93.netlify.app)  
 _Please replace this placeholder with the actual live link._
 
 ## 📂 Project Structure
